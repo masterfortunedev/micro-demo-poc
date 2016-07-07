@@ -1,6 +1,3 @@
-Kitchensink on OpenShift
-=========================
-
 This is the kitchensink JBoss quickstart app.  You can find more info @ http://www.jboss.org/jdf/quickstarts/jboss-as-quickstart/guide/KitchensinkQuickstart/
 
 Running on OpenShift
@@ -31,3 +28,6 @@ source points to `java:jboss/datasources/PostgreSQLDS`:
     <jta-data-source>java:jboss/datasources/PostgreSQLDS</jta-data-source>
 
 Commit this change, and push.
+=======
+# micro-demo-poc
+
