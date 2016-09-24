@@ -12,6 +12,10 @@ pom.xml - Maven build file
 .openshift/action_hooks/post_deploy - Script that gets run every git push after the app is restarted
 
 
+
+
+
+
 Details about layout and deployment options
 ==================
 There are two options for deploying content to the JBoss Application Server within OpenShift Express:
